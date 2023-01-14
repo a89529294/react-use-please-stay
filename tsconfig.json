@@ -1,0 +1,3 @@
+{
+  "compilerOptions": { "lib": ["ES2015"], "outDir": "dist", "jsx": "react", "skipLibCheck": false }
+}
